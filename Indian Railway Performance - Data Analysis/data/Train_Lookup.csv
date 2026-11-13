@@ -1,0 +1,6 @@
+﻿"Train ID	",Train Type,Number of Coaches,Average Per Seat ,Price
+"TRN100	",Duronto Express ,19,₹2,700
+TRN200,Garib Rath Express,20,₹1,0
+"TRN300	",Vande Bharat Express,16,₹2,0
+TRN400,Rajdhani Express,22,₹3,0
+"TRN500	",Shatabdi Express,15,₹1,400
